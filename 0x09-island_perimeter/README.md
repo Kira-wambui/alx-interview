@@ -36,6 +36,6 @@ if __name__ == "__main__":
 ```
 
 ```bash
-kigarde@ubuntu:~/0x09$ ./0-main.py
+kira@ubuntu:~/0x09$ ./0-main.py
 12
 ```
